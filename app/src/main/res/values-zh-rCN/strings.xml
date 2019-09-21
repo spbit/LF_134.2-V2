@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">低频</string>
+    <string name="action_settings">设置</string>
+    <string name="error_configuration">请先配置串口</string>
+    <string name="error_security">你没有读写权限.</string>
+    <string name="error_unknown">由于未知原因，串口不能打开</string>
+    <string name="TXT_POWER_ON">上电</string>
+    <string name="TXT_POWER_OFF">下电</string>
+    <string name="TXT_OPEN">打开</string>
+    <string name="TXT_CLOSE">关闭</string>
+    <string name="TXT_RECORD">卡号显示</string>
+    
+
+</resources>
